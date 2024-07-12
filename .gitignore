@@ -1,6 +1,13 @@
 # Prerequisites
 *.d
-
+*/*.swp
+*/*.cmd
+*/*.symvers
+*/*.order
+*/*.mod.c
+*/*.ko
+ipc/Writer
+ipc/Reader
 # Compiled Object files
 *.slo
 *.lo
